@@ -7,14 +7,13 @@ This repository contains a project to denoise images using autoencoders. The pro
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Features](#features)
-4. [Usage](#usage)
-5. [Methodology](#methodology)
-6. [Results](#results)
-7. [Future Work](#future-work)
-8. [Contributing](#contributing)
-9. [License](#license)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Methodology](#methodology)
+5. [Results](#results)
+6. [Future Work](#future-work)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ---
 
