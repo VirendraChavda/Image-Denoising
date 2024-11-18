@@ -25,15 +25,6 @@ This project trains an autoencoder to remove noise from images. It demonstrates 
 
 ---
 
-## Installation
-
-To set up and use this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/image-denoising.git
-   cd image-denoising
-   ```
 ## Features
 
 ### Neural Network Training
